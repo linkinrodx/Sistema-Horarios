@@ -1,0 +1,20 @@
+c:\users\alvaro sacari\documents\visual studio 2012\Projects\horarios4\horarios4\bin\Debug\horarios4.exe.config
+c:\users\alvaro sacari\documents\visual studio 2012\Projects\horarios4\horarios4\bin\Debug\horarios4.exe
+c:\users\alvaro sacari\documents\visual studio 2012\Projects\horarios4\horarios4\bin\Debug\horarios4.pdb
+c:\users\alvaro sacari\documents\visual studio 2012\Projects\horarios4\horarios4\obj\Debug\horarios4.csprojResolveAssemblyReference.cache
+c:\users\alvaro sacari\documents\visual studio 2012\Projects\horarios4\horarios4\obj\Debug\horarios4.Form1.resources
+c:\users\alvaro sacari\documents\visual studio 2012\Projects\horarios4\horarios4\obj\Debug\horarios4.Properties.Resources.resources
+c:\users\alvaro sacari\documents\visual studio 2012\Projects\horarios4\horarios4\obj\Debug\horarios4.csproj.GenerateResource.Cache
+c:\users\alvaro sacari\documents\visual studio 2012\Projects\horarios4\horarios4\obj\Debug\horarios4.exe
+c:\users\alvaro sacari\documents\visual studio 2012\Projects\horarios4\horarios4\obj\Debug\horarios4.pdb
+C:\Users\Alvaro Sacari\Documents\Visual Studio 2012\Projects\horarios4\horarios4\obj\Debug\horarios4.celda_horario.resources
+D:\HORARIOS\horarios4\horarios4\bin\Debug\horarios4.exe.config
+D:\HORARIOS\horarios4\horarios4\obj\Debug\horarios4.exe
+D:\HORARIOS\horarios4\horarios4\obj\Debug\horarios4.pdb
+D:\HORARIOS\horarios4\horarios4\bin\Debug\horarios4.exe
+D:\HORARIOS\horarios4\horarios4\bin\Debug\horarios4.pdb
+D:\HORARIOS\horarios4\horarios4\obj\Debug\horarios4.csprojResolveAssemblyReference.cache
+D:\HORARIOS\horarios4\horarios4\obj\Debug\horarios4.celda_horario.resources
+D:\HORARIOS\horarios4\horarios4\obj\Debug\horarios4.Form1.resources
+D:\HORARIOS\horarios4\horarios4\obj\Debug\horarios4.Properties.Resources.resources
+D:\HORARIOS\horarios4\horarios4\obj\Debug\horarios4.csproj.GenerateResource.Cache

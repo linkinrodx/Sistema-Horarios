@@ -1,0 +1,24 @@
+D:\HORARIOS\horarios4\horarios4\bin\Debug\horarios4.exe.config
+D:\HORARIOS\horarios4\horarios4\bin\Debug\horarios4.exe
+D:\HORARIOS\horarios4\horarios4\bin\Debug\horarios4.pdb
+D:\HORARIOS\horarios4\horarios4\obj\Debug\horarios4.Properties.Resources.resources
+D:\HORARIOS\horarios4\horarios4\obj\Debug\Horarios ESIS.csproj.GenerateResource.Cache
+D:\HORARIOS\horarios4\horarios4\obj\Debug\horarios4.exe
+D:\HORARIOS\horarios4\horarios4\obj\Debug\horarios4.pdb
+D:\HORARIOS\horarios4\horarios4\obj\Debug\horarios4.UI.FormMain.resources
+D:\HORARIOS\horarios4\horarios4\obj\Debug\horarios4.FormCatalogo.resources
+D:\HORARIOS\horarios4\horarios4\obj\Debug\horarios4.UI.FormHorarios.resources
+D:\HORARIOS\horarios4\horarios4\obj\Debug\Horarios ESIS.csprojResolveAssemblyReference.cache
+D:\HORARIOS\horarios4\horarios4\obj\Debug\horarios4.CeldaHorario.resources
+E:\.Trashes\Para Choco\horarios4\horarios4\bin\Debug\horarios4.exe.config
+E:\.Trashes\Para Choco\horarios4\horarios4\obj\Debug\horarios4.exe
+E:\.Trashes\Para Choco\horarios4\horarios4\obj\Debug\horarios4.pdb
+E:\.Trashes\Para Choco\horarios4\horarios4\bin\Debug\horarios4.exe
+E:\.Trashes\Para Choco\horarios4\horarios4\bin\Debug\horarios4.pdb
+E:\.Trashes\Para Choco\horarios4\horarios4\obj\Debug\Horarios ESIS.csprojResolveAssemblyReference.cache
+E:\.Trashes\Para Choco\horarios4\horarios4\obj\Debug\horarios4.CeldaHorario.resources
+E:\.Trashes\Para Choco\horarios4\horarios4\obj\Debug\horarios4.FormCatalogo.resources
+E:\.Trashes\Para Choco\horarios4\horarios4\obj\Debug\horarios4.Properties.Resources.resources
+E:\.Trashes\Para Choco\horarios4\horarios4\obj\Debug\horarios4.UI.FormHorarios.resources
+E:\.Trashes\Para Choco\horarios4\horarios4\obj\Debug\horarios4.UI.FormMain.resources
+E:\.Trashes\Para Choco\horarios4\horarios4\obj\Debug\Horarios ESIS.csproj.GenerateResource.Cache
