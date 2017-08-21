@@ -1,4 +1,4 @@
-# Sistema-Egresados-ESIS
+# Sistema-Horarios
 
 Proyecto de sistema de Registro, Búsqueda y Administracion de Horarios.
 
